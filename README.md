@@ -7,4 +7,5 @@ https://vinny-lima.github.io/project_03/
 - CSS
 - JavaScript
 - JQuery
+- Integração com Google Maps API
 - Font Awesome
